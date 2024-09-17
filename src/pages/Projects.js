@@ -12,7 +12,7 @@ export default function Projects() {
                     <p>- Explored using button components to initiate animations using 3D Framer Motion API</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://github.com/hventayen/3d/blob/main/3d.png?raw=true"/>
+                    <img src="https://github.com/hventayen/3d/blob/main/3d.png?raw=true" alt=''/>
                 </div>
             </div>
         </a>
@@ -27,7 +27,7 @@ export default function Projects() {
                     <p>- Built wireframes with Figma to coordinate website styling & structure with marketing dept</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://github.com/hventayen/Calendar/blob/main/calendar.png?raw=true"/>
+                    <img src="https://github.com/hventayen/Calendar/blob/main/calendar.png?raw=true" alt=''/>
                 </div>
             </div>
         </a>
@@ -41,7 +41,7 @@ export default function Projects() {
                     <p>- Data proposed effective changes in the company’s curriculum and optimized internship team’s focus towards desired industry roles</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://github.com/hventayen/scraper/blob/main/scraper.png?raw=true"/>
+                    <img src="https://github.com/hventayen/scraper/blob/main/scraper.png?raw=true" alt=''/>
                 </div>
             </div>
         </a>
@@ -55,7 +55,7 @@ export default function Projects() {
                     <p>- Utilized docker files in order to automate execution of react website</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHSs49cDk5Y3A/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707118994479?e=1727182800&v=beta&t=ev97dBXJAEnie2noQA4efyeCMHALyfNe1HK8Yyj5DXA"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHSs49cDk5Y3A/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707118994479?e=1727182800&v=beta&t=ev97dBXJAEnie2noQA4efyeCMHALyfNe1HK8Yyj5DXA" alt=''/>
                 </div>
             </div>
         </a>
@@ -68,7 +68,7 @@ export default function Projects() {
                     <p>- Configured mysql database on a second ec2 instance to access the data backend for wordpress a database in wordpress to contain the details of username and password</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQEvg4YjJpQ-QQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707114857568?e=1727182800&v=beta&t=XE-Au9OpV6YuUPmWn4wbDQW9PIH-MX6tbqdKFxjzTJU"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQEvg4YjJpQ-QQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707114857568?e=1727182800&v=beta&t=XE-Au9OpV6YuUPmWn4wbDQW9PIH-MX6tbqdKFxjzTJU" alt=''/>
                 </div>
             </div>
         </a>
@@ -81,7 +81,7 @@ export default function Projects() {
                     <p>- Adapted for multiple languages, data persistence, image & translator APIs used to generate questions</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQEdx75PTQhfCQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707109865352?e=1727182800&v=beta&t=oCUftVjCtElskWjDmdJO8B4qPzM3q7MhLbAM8lj0O-g"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQEdx75PTQhfCQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707109865352?e=1727182800&v=beta&t=oCUftVjCtElskWjDmdJO8B4qPzM3q7MhLbAM8lj0O-g" alt=''/>
                 </div>
             </div>
         </a>
@@ -94,7 +94,7 @@ export default function Projects() {
                     <p>- Utilized Redis to shard separate databases for guesses, word bank, and game ids</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHEgJS5GSmqbA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707110983467?e=1727182800&v=beta&t=CpYqUybP9NYgEOAaSDwSysBXsT_KZBd5dV1xl5_i08c"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHEgJS5GSmqbA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707110983467?e=1727182800&v=beta&t=CpYqUybP9NYgEOAaSDwSysBXsT_KZBd5dV1xl5_i08c" alt=''/>
                 </div>
             </div>
         </a>
@@ -107,7 +107,7 @@ export default function Projects() {
                     <p>- Customized a lesson plan teaching the student the basics of html, css, and js</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQEHN-tsPBehLg/articleshare-shrink_160/articleshare-shrink_160/0/1710866549462?e=1727182800&v=beta&t=hcGRv1vW2lBb7MVMIwFikIIaeocgMbcxvH3DyfYaugc"/>
+                    <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQEHN-tsPBehLg/articleshare-shrink_160/articleshare-shrink_160/0/1710866549462?e=1727182800&v=beta&t=hcGRv1vW2lBb7MVMIwFikIIaeocgMbcxvH3DyfYaugc" alt=''/>
                 </div>
             </div>
         </a>
@@ -120,7 +120,7 @@ export default function Projects() {
                     <p>- Utilized Encoders/Decoders to save info in files and pass objects between classes in Swift</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHDkQOZAG4koA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707107633400?e=1727182800&v=beta&t=UoA0_og8khxXRG7vniuZLA8RzFwlksR8x4Ah5sXsu3I"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHDkQOZAG4koA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707107633400?e=1727182800&v=beta&t=UoA0_og8khxXRG7vniuZLA8RzFwlksR8x4Ah5sXsu3I" alt=''/>
                 </div>
             </div>
         </a>
@@ -134,7 +134,7 @@ export default function Projects() {
                     <p>- Studied topics such as Data Structures and Object Oriented Programming</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQExy7LMTS7tYQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707105921218?e=1727182800&v=beta&t=PDuAquyaJpbNeuUD2mmvQLnhstXMf9L0oiG_UVogbKE"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQExy7LMTS7tYQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707105921218?e=1727182800&v=beta&t=PDuAquyaJpbNeuUD2mmvQLnhstXMf9L0oiG_UVogbKE" alt=''/>
                 </div>
             </div>
         </a>
