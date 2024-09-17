@@ -352,11 +352,18 @@ footer {
   }
 }
 
+.whole-experience {
+  align-items: center;
+  justify-content: center;
+}
+
 .experience-container {
-  display: grid;
+  display: flex;
+
   grid-template-columns: 1fr; /* One experience per row */
   gap: 20px;
   padding: 20px;
+  max-width: 200vh;
 }
 
 .experience {
@@ -370,6 +377,7 @@ footer {
   opacity: 0; 
   animation: fadeIn 1s ease-in forwards;
   transition: transform 0.3s, box-shadow 0.3s;
+  width: 90%;
 }
 
 
