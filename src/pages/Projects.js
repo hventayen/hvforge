@@ -3,7 +3,7 @@ export default function Projects() {
         <div>
             <h1>Projects</h1>
             <div class="projects-container">
-        <a href="https://www.google.com" target="_blank" class="project-link">
+        <a href="https://www.google.com" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Portfolio Website</h2>
@@ -12,12 +12,12 @@ export default function Projects() {
                     <p>- Explored using button components to initiate animations using 3D Framer Motion API</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://github.com/hventayen/3d/blob/main/3d.png?raw=true" alt="Project 1 image"/>
+                    <img src="https://github.com/hventayen/3d/blob/main/3d.png?raw=true"/>
                 </div>
             </div>
         </a>
 
-        <a href="https://la-tech.org/google-calendar-1-1-1-1-1" target="_blank" class="project-link">
+        <a href="https://la-tech.org/google-calendar-1-1-1-1-1" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Customized Squarespace Calendar</h2>
@@ -27,12 +27,12 @@ export default function Projects() {
                     <p>- Built wireframes with Figma to coordinate website styling & structure with marketing dept</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://github.com/hventayen/Calendar/blob/main/calendar.png?raw=true" alt="Project 2 image"/>
+                    <img src="https://github.com/hventayen/Calendar/blob/main/calendar.png?raw=true"/>
                 </div>
             </div>
         </a>
 
-        <a href="https://www.google.com" target="_blank" class="project-link">
+        <a href="https://www.google.com" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Alumni Web Scraper</h2>
@@ -41,11 +41,11 @@ export default function Projects() {
                     <p>- Data proposed effective changes in the company’s curriculum and optimized internship team’s focus towards desired industry roles</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://github.com/hventayen/scraper/blob/main/scraper.png?raw=true" alt="Project 3 image"/>
+                    <img src="https://github.com/hventayen/scraper/blob/main/scraper.png?raw=true"/>
                 </div>
             </div>
         </a>
-        <a href="https://github.com/hventayen/Rosay" target="_blank" class="project-link">
+        <a href="https://github.com/hventayen/Rosay" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Rosay Website</h2>
@@ -55,11 +55,11 @@ export default function Projects() {
                     <p>- Utilized docker files in order to automate execution of react website</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHSs49cDk5Y3A/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707118994479?e=1727182800&v=beta&t=ev97dBXJAEnie2noQA4efyeCMHALyfNe1HK8Yyj5DXA" alt="Project 3 image"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHSs49cDk5Y3A/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707118994479?e=1727182800&v=beta&t=ev97dBXJAEnie2noQA4efyeCMHALyfNe1HK8Yyj5DXA"/>
                 </div>
             </div>
         </a>
-        <a href="https://docs.google.com/presentation/d/1wf5tu2-Xwr2rqkvWMlXTLolcyYOwQNvlh-Hz9EG32zI/edit?usp=embed_facebook" target="_blank" class="project-link">
+        <a href="https://docs.google.com/presentation/d/1wf5tu2-Xwr2rqkvWMlXTLolcyYOwQNvlh-Hz9EG32zI/edit?usp=embed_facebook" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>System Administration AWS EC2 Web Server</h2>
@@ -68,11 +68,11 @@ export default function Projects() {
                     <p>- Configured mysql database on a second ec2 instance to access the data backend for wordpress a database in wordpress to contain the details of username and password</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQEvg4YjJpQ-QQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707114857568?e=1727182800&v=beta&t=XE-Au9OpV6YuUPmWn4wbDQW9PIH-MX6tbqdKFxjzTJU" alt="Project 3 image"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQEvg4YjJpQ-QQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707114857568?e=1727182800&v=beta&t=XE-Au9OpV6YuUPmWn4wbDQW9PIH-MX6tbqdKFxjzTJU"/>
                 </div>
             </div>
         </a>
-        <a href="https://github.com/hventayen/cpsc411-finalproject-spring2023-main" target="_blank" class="project-link">
+        <a href="https://github.com/hventayen/cpsc411-finalproject-spring2023-main" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Quiz-Lingo</h2>
@@ -81,11 +81,11 @@ export default function Projects() {
                     <p>- Adapted for multiple languages, data persistence, image & translator APIs used to generate questions</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQEdx75PTQhfCQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707109865352?e=1727182800&v=beta&t=oCUftVjCtElskWjDmdJO8B4qPzM3q7MhLbAM8lj0O-g" alt="Project 3 image"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQEdx75PTQhfCQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707109865352?e=1727182800&v=beta&t=oCUftVjCtElskWjDmdJO8B4qPzM3q7MhLbAM8lj0O-g"/>
                 </div>
             </div>
         </a>
-        <a href="https://github.com/hventayen/Project5-Asynchronous-Service-Orchestration" target="_blank" class="project-link">
+        <a href="https://github.com/hventayen/Project5-Asynchronous-Service-Orchestration" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Wordle Backend</h2>
@@ -94,11 +94,11 @@ export default function Projects() {
                     <p>- Utilized Redis to shard separate databases for guesses, word bank, and game ids</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHEgJS5GSmqbA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707110983467?e=1727182800&v=beta&t=CpYqUybP9NYgEOAaSDwSysBXsT_KZBd5dV1xl5_i08c" alt="Project 3 image"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHEgJS5GSmqbA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707110983467?e=1727182800&v=beta&t=CpYqUybP9NYgEOAaSDwSysBXsT_KZBd5dV1xl5_i08c"/>
                 </div>
             </div>
         </a>
-        <a href="https://codepen.io/hventayen/details/eYGpjXa" target="_blank" class="project-link">
+        <a href="https://codepen.io/hventayen/details/eYGpjXa" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Codepen Cat</h2>
@@ -107,11 +107,11 @@ export default function Projects() {
                     <p>- Customized a lesson plan teaching the student the basics of html, css, and js</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQEHN-tsPBehLg/articleshare-shrink_160/articleshare-shrink_160/0/1710866549462?e=1727182800&v=beta&t=hcGRv1vW2lBb7MVMIwFikIIaeocgMbcxvH3DyfYaugc" alt="Project 3 image"/>
+                    <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQEHN-tsPBehLg/articleshare-shrink_160/articleshare-shrink_160/0/1710866549462?e=1727182800&v=beta&t=hcGRv1vW2lBb7MVMIwFikIIaeocgMbcxvH3DyfYaugc"/>
                 </div>
             </div>
         </a>
-        <a href="https://github.com/CSUF-CPSC223W-2021S01/project-programmers" target="_blank" class="project-link">
+        <a href="https://github.com/CSUF-CPSC223W-2021S01/project-programmers" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Dump The Bump</h2>
@@ -120,11 +120,11 @@ export default function Projects() {
                     <p>- Utilized Encoders/Decoders to save info in files and pass objects between classes in Swift</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHDkQOZAG4koA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707107633400?e=1727182800&v=beta&t=UoA0_og8khxXRG7vniuZLA8RzFwlksR8x4Ah5sXsu3I" alt="Project 3 image"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQHDkQOZAG4koA/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707107633400?e=1727182800&v=beta&t=UoA0_og8khxXRG7vniuZLA8RzFwlksR8x4Ah5sXsu3I"/>
                 </div>
             </div>
         </a>
-        <a href="https://github.com/hventayen/epp12" target="_blank" class="project-link">
+        <a href="https://github.com/hventayen/epp12" target="_blank" rel="noreferrer" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Data Structures Fruit Prices Sorter</h2>
@@ -134,7 +134,7 @@ export default function Projects() {
                     <p>- Studied topics such as Data Structures and Object Oriented Programming</p>
                 </div>
                 <div class="project-image">
-                    <img src="https://media.licdn.com/dms/image/v2/D562DAQExy7LMTS7tYQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707105921218?e=1727182800&v=beta&t=PDuAquyaJpbNeuUD2mmvQLnhstXMf9L0oiG_UVogbKE" alt="Project 3 image"/>
+                    <img src="https://media.licdn.com/dms/image/v2/D562DAQExy7LMTS7tYQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1707105921218?e=1727182800&v=beta&t=PDuAquyaJpbNeuUD2mmvQLnhstXMf9L0oiG_UVogbKE"/>
                 </div>
             </div>
         </a>

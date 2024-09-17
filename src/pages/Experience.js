@@ -11,7 +11,7 @@ export default function Experience() {
                 <p>- Oversaw scholars in rigorous curriculum & student-led projects to set up EC2/virtual machines</p>
             </div>
             <div class="experience-image">
-                <img src="https://media.licdn.com/dms/image/v2/D560BAQEhw6Es-Aslzg/company-logo_100_100/company-logo_100_100/0/1719872392143?e=1734566400&v=beta&t=yjsvNQ-1gIT89fZOKMq6rdltyq2Fd8YN9jtmxdJVmR4" alt="Experience 1 image"/>
+                <img src="https://media.licdn.com/dms/image/v2/D560BAQEhw6Es-Aslzg/company-logo_100_100/company-logo_100_100/0/1719872392143?e=1734566400&v=beta&t=yjsvNQ-1gIT89fZOKMq6rdltyq2Fd8YN9jtmxdJVmR4"/>
             </div>
         </div>
 
@@ -23,7 +23,7 @@ export default function Experience() {
                 <p>- Instructed students on the basics of python and jupyter notebook to efficiently format data</p>
             </div>
             <div class="experience-image">
-                <img src="https://media.licdn.com/dms/image/v2/C4E0BAQG0C1xsD27VRA/company-logo_100_100/company-logo_100_100/0/1630584092659?e=1734566400&v=beta&t=8KtTax4YiWKgyCGVugE4ik68-Wzvifb_kC9oBhRTt3s" alt="Experience 2 image"/>
+                <img src="https://media.licdn.com/dms/image/v2/C4E0BAQG0C1xsD27VRA/company-logo_100_100/company-logo_100_100/0/1630584092659?e=1734566400&v=beta&t=8KtTax4YiWKgyCGVugE4ik68-Wzvifb_kC9oBhRTt3s"/>
             </div>
         </div>
 
@@ -35,7 +35,7 @@ export default function Experience() {
                 <p>- Encouraged children by making connections between children’s interests and coding concepts</p>
             </div>
             <div class="experience-image">
-                <img src="https://media.licdn.com/dms/image/v2/C510BAQH2SniJjbph3Q/company-logo_100_100/company-logo_100_100/0/1631364103877?e=1734566400&v=beta&t=TSjscr0cWXu9Jh3ZEez9rixxg8o9BXrkyxUa8VbL7LI" alt="Experience 3 image"/>
+                <img src="https://media.licdn.com/dms/image/v2/C510BAQH2SniJjbph3Q/company-logo_100_100/company-logo_100_100/0/1631364103877?e=1734566400&v=beta&t=TSjscr0cWXu9Jh3ZEez9rixxg8o9BXrkyxUa8VbL7LI"/>
             </div>
         </div>
 
@@ -47,7 +47,7 @@ export default function Experience() {
                 <p>- Programmed Raspberry PI to connect with server via websockets</p>
             </div>
             <div class="experience-image">
-                <img src="https://media.licdn.com/dms/image/v2/C4E0BAQG0C1xsD27VRA/company-logo_100_100/company-logo_100_100/0/1630584092659?e=1734566400&v=beta&t=8KtTax4YiWKgyCGVugE4ik68-Wzvifb_kC9oBhRTt3s" alt="Experience 3 image"/>
+                <img src="https://media.licdn.com/dms/image/v2/C4E0BAQG0C1xsD27VRA/company-logo_100_100/company-logo_100_100/0/1630584092659?e=1734566400&v=beta&t=8KtTax4YiWKgyCGVugE4ik68-Wzvifb_kC9oBhRTt3s"/>
             </div>
         </div>
     </div>
