@@ -3,7 +3,7 @@ export default function Projects() {
         <div>
             <h1>Projects</h1>
             <div class="projects-container">
-        <a href="https://www.google.com" class="project-link">
+        <a href="https://hvforge.pages.dev/" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Portfolio Website</h2>
