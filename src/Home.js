@@ -145,9 +145,9 @@ export default function Home() {
     <section class="social-links">
         <h2>Connect with Me</h2>
         <div class="social-icons">
-            <a href="https://www.linkedin.com/in/harroldventayen/" rel="noreferrer" target="_blank"><img src="https://c0.klipartz.com/pngpicture/556/54/gratis-png-iconos-de-la-computadora-linkedin-linkedin.png" alt="LinkedIn"/></a>
-            <a href="https://github.com/hventayen" rel="noreferrer" target="_blank"><img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="GitHub"/></a>
-            <a href="mailto:harrold@la-tech.org" rel="noreferrer" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/020/009/614/non_2x/email-and-mail-icon-black-free-png.png" alt="mailto"/></a>
+            <a href="https://www.linkedin.com/in/harroldventayen/"><img src="https://c0.klipartz.com/pngpicture/556/54/gratis-png-iconos-de-la-computadora-linkedin-linkedin.png" alt="LinkedIn"/></a>
+            <a href="https://github.com/hventayen"><img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="GitHub"/></a>
+            <a href="mailto:harrold@la-tech.org"><img src="https://static.vecteezy.com/system/resources/previews/020/009/614/non_2x/email-and-mail-icon-black-free-png.png" alt="mailto"/></a>
         </div>
     </section>
     
