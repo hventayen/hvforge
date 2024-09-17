@@ -3,7 +3,7 @@ export default function Projects() {
         <div>
             <h1>Projects</h1>
             <div class="projects-container">
-        <a href="https://www.google.com" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://www.google.com" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Portfolio Website</h2>
@@ -17,7 +17,7 @@ export default function Projects() {
             </div>
         </a>
 
-        <a href="https://la-tech.org/google-calendar-1-1-1-1-1" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://la-tech.org/google-calendar-1-1-1-1-1" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Customized Squarespace Calendar</h2>
@@ -32,7 +32,7 @@ export default function Projects() {
             </div>
         </a>
 
-        <a href="https://www.google.com" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://www.google.com" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Alumni Web Scraper</h2>
@@ -45,7 +45,7 @@ export default function Projects() {
                 </div>
             </div>
         </a>
-        <a href="https://github.com/hventayen/Rosay" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://github.com/hventayen/Rosay" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Rosay Website</h2>
@@ -59,7 +59,7 @@ export default function Projects() {
                 </div>
             </div>
         </a>
-        <a href="https://docs.google.com/presentation/d/1wf5tu2-Xwr2rqkvWMlXTLolcyYOwQNvlh-Hz9EG32zI/edit?usp=embed_facebook" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://docs.google.com/presentation/d/1wf5tu2-Xwr2rqkvWMlXTLolcyYOwQNvlh-Hz9EG32zI/edit?usp=embed_facebook" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>System Administration AWS EC2 Web Server</h2>
@@ -72,7 +72,7 @@ export default function Projects() {
                 </div>
             </div>
         </a>
-        <a href="https://github.com/hventayen/cpsc411-finalproject-spring2023-main" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://github.com/hventayen/cpsc411-finalproject-spring2023-main" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Quiz-Lingo</h2>
@@ -85,7 +85,7 @@ export default function Projects() {
                 </div>
             </div>
         </a>
-        <a href="https://github.com/hventayen/Project5-Asynchronous-Service-Orchestration" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://github.com/hventayen/Project5-Asynchronous-Service-Orchestration" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Wordle Backend</h2>
@@ -98,7 +98,7 @@ export default function Projects() {
                 </div>
             </div>
         </a>
-        <a href="https://codepen.io/hventayen/details/eYGpjXa" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://codepen.io/hventayen/details/eYGpjXa" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Codepen Cat</h2>
@@ -111,7 +111,7 @@ export default function Projects() {
                 </div>
             </div>
         </a>
-        <a href="https://github.com/CSUF-CPSC223W-2021S01/project-programmers" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://github.com/CSUF-CPSC223W-2021S01/project-programmers" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Dump The Bump</h2>
@@ -124,7 +124,7 @@ export default function Projects() {
                 </div>
             </div>
         </a>
-        <a href="https://github.com/hventayen/epp12" target="_blank" rel="noreferrer" class="project-link">
+        <a href="https://github.com/hventayen/epp12" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Data Structures Fruit Prices Sorter</h2>
