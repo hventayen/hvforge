@@ -3,7 +3,7 @@ export default function Projects() {
         <div>
             <h1>Projects</h1>
             <div class="projects-container">
-        <a href="https://forgehv.org/" class="project-link">
+        <a href="https://github.com/hventayen/forgehv.git" class="project-link">
             <div class="project">
                 <div class="project-description">
                     <h2>Portfolio Website</h2>
