@@ -1,7 +1,7 @@
 export default function Projects() {
     return (
         <div>
-            <h1>Projects</h1> 
+            <h1>Projects</h1>
             <div class="projects-container">
         <a href="https://github.com/hventayen/forgehv.git" class="project-link">
             <div class="project">
