@@ -3,7 +3,7 @@ export default function Navbar() {
     return (
         <nav className="nav">
             <Link to="/" className= "site-title">
-                Forge HV
+                HV Forge
             </Link>
             <ul>
                 <CustomLink to="/projects">Projects</CustomLink>
