@@ -74,7 +74,7 @@ export default function Home() {
     console.log(isOpen)
     return (
     <div className="container">
-        <h1>Welcome!</h1>
+        <h1 class="header-title">Welcome!</h1>
         
     <header>
         <div class="header-container">
@@ -91,7 +91,7 @@ export default function Home() {
             </div>
             <div class="intro-image">
             <div className="preview">
-        <Canvas>
+      <Canvas>
         <ambientLight intensity={1.5} />
         <pointLight position={[10, 10, 50]} />
         <Harrold isOpen={isOpen}/>
@@ -99,6 +99,7 @@ export default function Home() {
         <PerspectiveCamera makeDefault position={[-100, 400, 1000]}/>
         <OrbitControls />
       </Canvas>
+      
         </div>
             </div>
         </div>
@@ -119,7 +120,8 @@ export default function Home() {
                 <p>- Button animates models using 3D Framer Motion API.</p>
             </div>
       <div class="viv">
-        <Canvas>
+        
+      <Canvas>
         <ambientLight intensity={1.5} />
         <pointLight position={[10, 10, 50]} />
         <Viv isOpen={isOpen}/>
@@ -154,3 +156,25 @@ export default function Home() {
     </div>
     )
 }
+/*
+
+
+<Canvas>
+        <ambientLight intensity={1.5} />
+        <pointLight position={[10, 10, 50]} />
+        <Harrold isOpen={isOpen}/>
+        <directionalLight />
+        <PerspectiveCamera makeDefault position={[-100, 400, 1000]}/>
+        <OrbitControls />
+      </Canvas>
+
+<Canvas>
+        <ambientLight intensity={1.5} />
+        <pointLight position={[10, 10, 50]} />
+        <Viv isOpen={isOpen}/>
+        <directionalLight />
+        <PerspectiveCamera makeDefault position={[-100, 400, 1000]}/>
+        <OrbitControls />
+      </Canvas>
+
+*/

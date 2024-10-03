@@ -74,6 +74,7 @@ input:checked+.slider:before {
 }
 
 body {
+  background-color: black;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -93,7 +94,7 @@ code {
 }
 
 .nav {
-  background-color: #333;
+  background-color: black;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -147,6 +148,11 @@ code {
   animation-name: example;
   animation-duration: 0.5s;
 }
+@media (min-width: 768px) {
+  .projects-container {
+      grid-template-columns: 1fr 1fr; /* Two projects per row */
+      gap: 40px; /* Adds spacing between projects */
+  }
 
 .intro-text p1 {
   text-align: left;
@@ -161,6 +167,9 @@ code {
   from {background-color: #333;}
   to {background-color: #777;}
 }
+.header-title {
+  color:white;
+}
 .header-container {
   display: flex;
   justify-content: center;
@@ -168,13 +177,14 @@ code {
   max-width: 90%;
   opacity: 0; 
   animation: fadeIn 1s ease-in forwards;
+  color: white;
 }
 .intro {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 50px;
-  background-color: #fff;
+  color: white;
   opacity: 0; 
   animation: fadeIn 1s ease-in forwards;
 }
@@ -215,7 +225,7 @@ code {
 .current-work {
   padding: 50px;
   text-align: left;
-  background-color: #e9ecef;
+  color: white;
   opacity: 0; 
   animation: fadeIn 1s ease-in forwards;
 }
@@ -251,7 +261,8 @@ code {
 .social-links {
   padding: 50px;
   text-align: center;
-  background-color: #fff;
+  background-color: black;
+  color: white;
   opacity: 0; 
   animation: fadeIn 1s ease-in forwards;
 }
@@ -407,3 +418,11 @@ footer {
       opacity: 1; /* Fade in to fully visible */
   }
 }
+
+/*
+
+#A2704F Dark Beige
+#364133 Dark Green
+#101C0D Black
+
+*/}
