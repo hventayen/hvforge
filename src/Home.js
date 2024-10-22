@@ -74,7 +74,7 @@ export default function Home() {
     console.log(isOpen)
     return (
     <div className="container">
-        <h1 class="header-title">Welcome!</h1>
+        <h1 class="header-title">welcome</h1>
         
     <header>
         <div class="header-container">

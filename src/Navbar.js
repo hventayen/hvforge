@@ -1,13 +1,13 @@
 import { Link, useMatch, useResolvedPath } from "react-router-dom"
-
+import title from './assets/websiteTitle.png';
 
 export default function Navbar() {
     return (
         <nav className="nav">
             <Link to="/" className= "site-title">
-                HV Forge
+            <img src={title} alt="logo" width="180px" height="40px"/>
             </Link>
-            <ul>
+            <ul className="links">
                 <CustomLink to="/projects">Projects</CustomLink>
                 <CustomLink to="/experience">Experience</CustomLink>
             </ul>
